@@ -1,0 +1,3 @@
+ESCRIBIR EN LA TERMINAL: cd ./ejercicios y apretar tab enter
+
+escribir git pull y listo
